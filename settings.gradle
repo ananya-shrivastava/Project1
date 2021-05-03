@@ -1,0 +1,3 @@
+rootProject.name = 'BigDataProjectQ1-Q2'
+include 'LoadHdfsToHbase'
+
